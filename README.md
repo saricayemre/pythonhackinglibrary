@@ -12,7 +12,7 @@ Herkese merhaba bu yazımda Python’un Siber Güvenlik için en çok kullanıla
 
 Requests kelime anlamı olarak istekler, talepler anlamına gelir. Bu kütüphane ile web siteleri ve sunucular üzerinden isteklerinizi gönderebilir ve geri dönen yanıta karşılık olarak sızma saldırısı veya bilgi toplama işlemleri için stratejiler geliştirebilirsiniz. Requests ile HTTP isteklerini yapacağımız söyledik. Peki bu isteklerin özel adları var mıdır? Elbette… Bu modül ile get, post, put, delete gibi istekleri gönderebilirsiniz. Buna ek olarak, parametre belirterek istek göndermek mümkündür.
 
-'pip install requests'
+``pip install requests``
 
 
 ## 2-) Scapy
